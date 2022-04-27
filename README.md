@@ -11,7 +11,7 @@ You will need to create one Flutter project with the following instruction. Plea
 
 - Please create one Android App using Flutter framework for cryptocurrency market watch list. You can clone this repo and start from there.
 - The app itself will be a two-page app, first page listing all tokens sourced from the API above, and the second page for token watchlist (favorites list).
-- It will show the real time price change from web socket. The only difference (with real time pricing) is all prices are shifted 15 minutes from real time.
+- It will show the real time price change from web socket.
 - There should be a "favorite" function, which upon activated will re-sort the list, and put the favorite token(s) on top.
 - Favorite page should have the function to manage the token watchlist.
 
